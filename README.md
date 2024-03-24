@@ -43,7 +43,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="mailto:admin@powerminsang9901.co.kr">
+	<a href="mailto:powerminsang9901@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=Gmail&logoColor=white" />
 	</a>
  <a href="https://coding-gguljam.tistory.com">
