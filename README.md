@@ -33,19 +33,21 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<!-- <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> -->
 	<!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /> -->
-	
- <br>
+	<h3 align="center"><b>🔫 Hits 🔫 </b></h3>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40youhyeoneee&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=false"/></a> -->
+</p>
 </div>
-<br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://coding-gguljam.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
 	<a href="mailto:admin@powerminsang9901.co.kr">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+ <a href="https://coding-gguljam.tistory.com">
+		<img src="https://img.shields.io/badge/Tistory-FFA500?style=flat&logo=Tistory&logoColor=white" />
 	</a>
   <!-- 노션 사이트
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
@@ -70,3 +72,5 @@
 <br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
