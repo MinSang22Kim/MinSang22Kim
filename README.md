@@ -40,7 +40,7 @@
 </p>
 </div>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 SNS 🎨</p>
 </div>
 <div align=center>
 	<a href="mailto:powerminsang9901@gmail.com">
