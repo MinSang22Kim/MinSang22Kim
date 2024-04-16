@@ -36,7 +36,6 @@
 	<h3 align="center"><b>🔫 Hits 🔫 </b></h3>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40youhyeoneee&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=false"/></a> -->
 </p>
 </div>
 <div align=center>
@@ -61,7 +60,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true">
   <br>
-![MinSang22Kim's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=MinSang22Kim)
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
