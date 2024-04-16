@@ -61,9 +61,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true">
   <br>
-<!--
 ![MinSang22Kim's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=MinSang22Kim)
--->
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
