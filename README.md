@@ -22,7 +22,7 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<h3 align="center"><b>🔫 Hits 🔫 </b></h3>
+	<h3><b>🔫 Hits 🔫 </b></h3>
 	<p align="center">
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 	</p>
@@ -33,15 +33,11 @@
 		<img src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://coding-gguljam.tistory.com">
-		<img src="https://img.shields.io/badge/Tistory-FFA500?style=flat&logo=Tistory&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tistory-FFA500?style=flat&logo=Tistory&logoColor=white" />
 	</a>
-	<br>
-</div>
-<div align="right">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true">
-	<br>
 	<br>
 	<p>🏆 Baekjoon solved rank 🏆</p>
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mskim0217)](https://solved.ac/mskim0217)
