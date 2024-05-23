@@ -35,12 +35,12 @@
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a> 
 	-->
 
-<h3>💡 My Most Used Languages && My Git Stats 💡</h3>
+<h3>💡 Most Used Languages && Git Stats 💡</h3>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&layout=compact&theme=nord">
 	<img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical">
 
 <h3>🏆 Baekjoon solved rank 🏆</h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mskim0217)](https://solved.ac/mskim0217)
+  <a href="https://solved.ac/mskim0217"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mskim0217" alt="Solved.ac프로필"></a>
 
 <!-- 잔디 지렁이
 <img src="https://github.com/MinSang22Kim/MinSang22Kim/blob/output/github-contribution-grid-snake.svg"/>
