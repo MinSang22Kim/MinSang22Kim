@@ -69,5 +69,7 @@
 <br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+<!-- 잔디에 지렁이 넣기 -->
+<img src="https://github.com/MinSang22Kim/MinSang22Kim/blob/output/github-snake-dark.svg" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
