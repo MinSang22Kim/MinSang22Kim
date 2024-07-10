@@ -1,5 +1,26 @@
 <div align="center">
 <h1> Hi👋, I'm MinSang!🤗</h1>
+
+<h3>🛠 Studying 🛠</h3>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+
+<h3>💡 Most Used Languages && Git Stats 💡</h3>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&layout=compact&theme=nord">
+	<img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical">
+	
+<h3>🔫 Hits 🔫</h3>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<h3>🏆 Baekjoon solved rank 🏆</h3>
+  <a href="https://solved.ac/mskim0217"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mskim0217" alt="Solved.ac프로필"></a>
+
+<!-- 잔디 지렁이
+<img src="https://github.com/MinSang22Kim/MinSang22Kim/blob/output/github-contribution-grid-snake.svg"/>
+-->
+</div>
+<!--
 <h3>✨ Platforms && Languages ✨</h3>
 	<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Conda-Forge&logoColor=white"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -29,10 +50,7 @@
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-
-<h3>🔫 Hits 🔫</h3>
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
+ 
 <h3>📞 Contact 📞</h3>
 	<a href="mailto:powerminsang9901@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=Gmail&logoColor=white" /></a>
 	<a href="https://coding-gguljam.tistory.com"><img src="https://img.shields.io/badge/Tistory-FFA500?style=flat&logo=Tistory&logoColor=white" /></a>
@@ -40,15 +58,4 @@
 	<!-- 노션 수정 필요
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a> 
 	-->
-
-<h3>💡 Most Used Languages && Git Stats 💡</h3>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&layout=compact&theme=nord">
-	<img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical">
-
-<h3>🏆 Baekjoon solved rank 🏆</h3>
-  <a href="https://solved.ac/mskim0217"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mskim0217" alt="Solved.ac프로필"></a>
-
-<!-- 잔디 지렁이
-<img src="https://github.com/MinSang22Kim/MinSang22Kim/blob/output/github-contribution-grid-snake.svg"/>
 -->
-</div>
