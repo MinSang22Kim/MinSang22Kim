@@ -12,7 +12,7 @@
 <!--
  <br> </br> <br> </br>
 [![MinSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinSang22Kim)](https://github.com/MinSang22Kim/github-readme-stats)
-
+https://github-readme-stats.vercel.app/api?username=MinSang22Kim)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
 ###  Once I Used🐥
   ---
 
