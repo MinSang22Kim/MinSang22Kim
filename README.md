@@ -4,9 +4,12 @@
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <a href="https://solved.ac/mskim0217"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mskim0217"/></a>
+  <a href="https://solved.ac/mskim0217"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mskim0217"/></a><br/>
+  <a href="mailto:mdk9901@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="mailto:powerminsang9901@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sang._.ss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EB%A7%8C%EC%83%81-%EA%B9%80-8020a1307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </div>
-
 <br/>
 
 ## 🙋‍♂️ About me
