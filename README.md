@@ -5,13 +5,16 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <a href="https://solved.ac/mskim0217"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mskim0217"/></a>
-</div><br/>
+</div>
+
+<br/>
 
 ## 🙋‍♂️ About me
 
 - 다른 사람의 코드를 읽고 학습하는 것을 좋아합니다!
 - 얻은 경험을 기록하고 피드백하여 발전하는 것을 좋아합니다!
 - 아는 것들과 새로운 것들을 꾸준히 학습하고 확인하는 것을 좋아합니다!
+
 <br/>
 
 ## 🎒 Activities
@@ -41,6 +44,7 @@
 ## 📚 Skills
 
 __Languages & Frameworks__
+
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -58,7 +62,9 @@ __Languages & Frameworks__
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-FFA500?style=flat-square&logo=openjdk&logoColor=white"/>
-</p><br/>
+</p>
+
+<br/>
 
 __Development & Operations Tools__
 
@@ -78,6 +84,7 @@ __Development & Operations Tools__
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
 </p>
+
 <br/>
 
 __Collaborations__
@@ -97,7 +104,9 @@ __Etc__
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
-</p><br/>
+</p>
+
+<br/>
 
 ## 🪪 Certifications
 - **워드프로세서 1급** (2021.02.05)
@@ -106,7 +115,9 @@ __Etc__
 <br/>
 
 ## 📖 Education
-- **Gyonggi University, Computer Engineering** (2020.03 ~ 2026.02(expected))
+- **Gyonggi University, Computer Engineering** (2020.03. ~ ing)
+
+<br/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula"/>
