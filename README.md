@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=220&section=header&text=Minsang's%20GitHub&fontSize=60&animation=fadeIn&fontAlign=65&fontAlignY=35&desc=developer%20&descAlignY=55&descAlign=88&fontColor=fff"/>
 </p>
 
@@ -119,5 +119,6 @@ __Etc__
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/> <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula"/>
+
+<br/>
