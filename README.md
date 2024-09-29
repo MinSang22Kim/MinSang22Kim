@@ -119,6 +119,9 @@ __Etc__
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/> <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula"/>
+</div>
 
 <br/>
