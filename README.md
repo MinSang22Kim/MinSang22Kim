@@ -125,8 +125,8 @@ __Etc__
 
 ## 🎓 Background
 - **Gyonggi University, Computer Engineering** (2020.03. ~ ing)
-- **Republic of Korea Army**, CBR Defense Command (2021.05 ~ 2023.02)
-- **Gyoha High School**, Science Major (2017.03 ~ 2020.02)
+- **Republic of Korea Air Force, CBR Defense Command** (2021.05 ~ 2023.02)
+- **Gyoha High School, Natural Science Major** (2017.03 ~ 2020.02)
 
 <br/>
 
