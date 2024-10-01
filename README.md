@@ -77,6 +77,7 @@ __Development & Operations Tools__
   <!-- Tool -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat-F7DF3E?style=flat-square&logo=ApacheTomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <!-- DB --> <br/>
