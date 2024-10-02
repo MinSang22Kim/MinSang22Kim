@@ -12,8 +12,6 @@
 </div>
 <br/>
 
-<br/>
-
 ## 📚 Skills
 
 __Languages & Frameworks__
