@@ -12,36 +12,6 @@
 </div>
 <br/>
 
-## 🙋‍♂️ About me
-
-- 다른 사람의 코드를 읽고 학습하는 것을 좋아합니다!
-- 얻은 경험을 기록하고 피드백하여 발전하는 것을 좋아합니다!
-- 아는 것들과 새로운 것들을 꾸준히 학습하고 확인하는 것을 좋아합니다!
-
-<br/>
-
-## 🎒 Activities
-
-📌 **K-Software Empowerment BootCamp** (2023.12. ~ ing)
-
-📌 **InQ 교내 프로젝트 학술 동아리 운영진** (2024. 03. ~ ing)
-
-📌 **InQ 교내 프로젝트 학술 동아리** (2023. 12. ~ ing)
-
-📌 **CERT 교내 침해사고 대응팀** (2023. 07. ~ 2023. 08.)
-
-📌 **K.Knock 교내 정보보안 동아리** (2023.03. ~ 2023.08.)
-
-<br/>
-
-## 🏆 Awards
-
-🥇 **2024 K-Softvation Showcase 우수상** (2024.08.29.)
-
-🥇 **교내 기초 캡스톤 디자인 은상** (2024.06.07.)
-
-🥇 **교내 컴퓨터공학부 학생포트폴리오 경진대회 우수상** (2020.12.08.)
-
 <br/>
 
 ## 📚 Skills
@@ -119,17 +89,6 @@ __Etc__
 </p>
 
 <br/>
-
-## 🪪 Certifications
-- **워드프로세서 1급** (2021.02.05)
-- **SQLD** (2024.04.05)
-
-<br/>
-
-## 🎓 Background
-- **Gyonggi University, Computer Engineering** (2020.03. ~ ing)
-- **Republic of Korea Air Force, CBR Defense Command** (2021.05 ~ 2023.02)
-- **Gyoha High School, Natural Science Major** (2017.03 ~ 2020.02)
 
 <br/>
 
