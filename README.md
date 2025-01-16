@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=220&section=header&text=Minsang's%20GitHub&fontSize=60&animation=fadeIn&fontAlign=65&fontAlignY=35&desc=BaekEnd%20Developer&descAlignY=55&descAlign=80&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=220&section=header&text=Minsang's%20GitHub&fontSize=60&animation=fadeIn&fontAlign=65&fontAlignY=35&desc=BackEnd%20Developer&descAlignY=55&descAlign=80&fontColor=fff"/>
 </p>
 
 <div align="center">
@@ -18,10 +18,10 @@ __Languages & Frameworks__
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA(Hibernate)-00485B?style=flat-square&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA(Hibernate)-00485B?style=flat-square&logo=Hibernate&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -43,7 +43,7 @@ __Languages & Frameworks__
 __Development & Operations Tools__
 
 <p>
-  <!-- CI/CD --> <br/>
+  <!-- CI/CD -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white"/>
 
@@ -61,14 +61,13 @@ __Development & Operations Tools__
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
 
-  <!-- Tool --><br/>
+  <!-- Tool --> <br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tomcat-F7DF3E?style=flat-square&logo=ApacheTomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
-
 </p>
 
 <br/>
