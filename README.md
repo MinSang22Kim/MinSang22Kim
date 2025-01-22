@@ -92,7 +92,6 @@ __Etc__
 </p>
 
 <br/>
-
 <br/>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8" style="height: 190px;"/>
