@@ -4,7 +4,7 @@
  
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSang22Kim%2Fhit-counter&count_bg=%236EE459&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<!-- <a href="https://solved.ac/mskim0217"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mskim0217"/></a> --><br/>
+  <a href="https://solved.ac/mskim0217"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mskim0217"/></a><br/>
   <a href="mailto:mdk9901@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="mailto:powerminsang9901@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sang._.ss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -12,8 +12,18 @@
 </div>
 <br/>
 
+## 🏆 Awards
+
+| **Award Name** | **Organizer / Awarding Body** | **Date** |
+| --- | --- | --- |
+| 컴퓨터공학부 학생포트폴리오 경진대회 우수상 | 경기대학교 SW중심사업단 | 2020.12.08 |
+| 2024 기초 캡스톤 은상 | 경기대학교 SW중심사업단 | 2024.06.07 |
+| 2024 K-SoftVation Showcase 프로젝트 경진대회 우수상 | 정보통신기획평가원 | 2024.08.29 |
+| 2024 AI 해커톤 생성형 AI 활용 분야 우수상 | 한국컴퓨터교육학회 | 2024.10.27 |
+| 2025 BootCamp Code-IT Cup 최우수상 | 과학기술정보통신부 | 2025.03.12 |
+
 ## 📚 Skills
- 
+
 __Languages & Frameworks__
  
 <p>
