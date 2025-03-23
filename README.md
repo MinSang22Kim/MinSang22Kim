@@ -9,8 +9,7 @@
   <a href="mailto:powerminsang9901@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sang._.ss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EB%A7%8C%EC%83%81-%EA%B9%80-8020a1307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-</div>
-<br/>
+</div><br/>
 
 ## 🏆 Awards
 
@@ -46,9 +45,7 @@ __Languages & Frameworks__
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-FFA500?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
-
-<br/>
+</p><br/>
 
 __Development & Operations Tools__
 
@@ -82,9 +79,7 @@ __Development & Operations Tools__
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Termius-0F1729?style=flat-square&logo=Termius&logoColor=white"/>
-</p>
-
-<br/>
+</p><br/>
 
 __Collaborations__
 
@@ -103,13 +98,9 @@ __Etc__
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-</p>
+</p><br/><br/>
 
-<br/>
-<br/>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8" style="height: 190px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula&hide=stars" style="height: 190px;"/>
-</div>
-
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8&v=3" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula&hide=stars&v=3" style="height: 180px;"/>
+</div><br/>
