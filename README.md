@@ -106,3 +106,5 @@ __Etc__
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSang22Kim&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8&v=3" style="height: 180px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MinSang22Kim&show_icons=true&theme=dracula&hide=stars&v=3" style="height: 180px;"/>
 </div><br/>
+
+![snake gif](https://github.com/MinSang22Kim/MinSang22Kim/blob/output/github-contribution-grid-snake.svg)
