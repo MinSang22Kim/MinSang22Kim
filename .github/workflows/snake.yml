@@ -24,7 +24,7 @@ jobs:
         uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GH_TOKEN }}
-          branch: main
+          branch: output
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
